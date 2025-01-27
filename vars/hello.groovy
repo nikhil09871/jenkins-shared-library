@@ -1,3 +1,3 @@
-def call(String url, String branch){
-  git url: "${url}", branch: "${branch}"
+def call(){
+  echo "Hello Dosto, video pasand aa rhi ho toh bhai, subscribe!"
 }
